@@ -1,0 +1,8 @@
+{
+    "App":{
+        "SECRET_CODE" : "webkodz_serviceManagement",
+        "PORT" : 5607,
+        "SALT_ROUNDS": 10,
+        "TokenExpiresIn":604800 
+    }
+}

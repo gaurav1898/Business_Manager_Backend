@@ -1,0 +1,9 @@
+{
+    "App":{
+        "SECRET_CODE" : "live_webkodz_mummeals",
+        "PORT" : 5053,
+        "SALT_ROUNDS": 10,
+        "TokenExpiresIn":604800 
+
+    }
+}
